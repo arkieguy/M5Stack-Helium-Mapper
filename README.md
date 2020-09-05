@@ -11,3 +11,7 @@ Please note:  If you are a US resident, Digikey carries MOST of these devices.  
 * M5Stack [Core](https://m5stack.com/collections/m5-core) ( Black, Gray, Fire or Core2)
 * M5Stack [LoRaWAN Module](https://m5stack.com/collections/m5-module/products/lorawan-modulerhf76-052?variant=30331964325978)
 * M5Stack [GPS Module](https://m5stack.com/collections/m5-module/products/gps-module)
+
+## Hardware Modifications
+
+Unfortunately, the LoRaWAN module and the GPS module use the same UART pins.  To resolve the conflict you can follow the instructions [here](https://docs.m5stack.com/#/en/module/gps) to change the GPS module to use pins 5 and 13.
