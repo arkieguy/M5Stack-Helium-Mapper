@@ -15,3 +15,7 @@ Please note:  If you are a US resident, Digikey carries MOST of these devices.  
 ## Hardware Modifications
 
 Unfortunately, the LoRaWAN module and the GPS module use the same UART pins.  To resolve the conflict you can follow the instructions [here](https://docs.m5stack.com/#/en/module/gps) to change the GPS module to use pins 5 and 13.
+
+## Status of code
+
+CUrrently the code should connect to the Helium Network, but when I try to add in the GPS logic, it breaks the UART response from LoRaWAN.  Waiting on response from M5Stack Support.
