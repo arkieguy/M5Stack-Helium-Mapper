@@ -18,4 +18,4 @@ Unfortunately, the LoRaWAN module and the GPS module use the same UART pins.  To
 
 ## Status of code
 
-CUrrently the code should connect to the Helium Network, but when I try to add in the GPS logic, it breaks the UART response from LoRaWAN.  Waiting on response from M5Stack Support.
+CUrrently the code is able to connect to the Helium Network, but when I try to add in the GPS logic, it breaks the UART response from LoRaWAN.  Waiting on response from M5Stack Support.
