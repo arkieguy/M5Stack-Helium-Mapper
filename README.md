@@ -6,8 +6,7 @@ This is a [M5Stack](https://m5stack.com) [UIFlow](https://flow.m5stack.com) used
 
 ## Required Hardware
 
-Please note:  If you are a US resident, [Digikey](https://www.digikey.com/) carries MOST of these devices.  You really should try there first as shipping directly from M5Stack is either expensive or takes a while. 
-If you can't find the item on Digiky (their search sucks), try searching for the M5Stack item number from the M5Stack web page. 
+Please note:  If you are a US resident, [Digikey](https://www.digikey.com/) carries MOST of these devices.  You really should try there first as shipping directly from M5Stack is either expensive or takes a while. **Hint:** If you can't find the item on Digiky (their search sucks), try searching for the M5Stack item number from the M5Stack web page. 
 
 * M5Stack [Core](https://m5stack.com/collections/m5-core) ( Black, Gray, Fire or Core2)
 * M5Stack [LoRaWAN Module](https://m5stack.com/collections/m5-module/products/lorawan-modulerhf76-052?variant=30331964325978)
